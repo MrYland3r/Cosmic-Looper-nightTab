@@ -12,4 +12,7 @@ In order to use this theme:
 
 Thanks for checking it out :)
 
+DEMO
+![demo](cosmicLooperDemo.png"Demo")
+
 El. Psy. Kongroo.
